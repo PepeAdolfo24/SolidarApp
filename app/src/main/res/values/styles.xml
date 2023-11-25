@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Estilo para el Spinner con fondo blanco y borde negro -->
+    <style name="SpinnerWithWhiteBackground">
+        <item name="android:padding">8dp</item> <!-- Ajusta el relleno según sea necesario -->
+    </style>
+
+</resources>
